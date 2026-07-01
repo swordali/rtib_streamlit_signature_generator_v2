@@ -229,7 +229,7 @@ def main() -> None:
         name = st.text_input("Ad Soyad", "Mustafa VATAN")
         title = st.text_input("Unvan / Görev", "Yönetim Kurulu Üyesi")
         mobile = st.text_input("Mobil Telefon", "+7 909 154 15 98")
-        corporate_phone = st.text_input("Kurum Telefonu", "+8 (495) 514-13-74")
+        corporate_phone = st.text_input("Kurum Telefonu", "+7 (495) 514 13 74")
 
     with col2:
         email = st.text_input("E-posta", "info@rtib.org")
